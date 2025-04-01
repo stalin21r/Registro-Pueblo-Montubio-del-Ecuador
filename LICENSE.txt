@@ -1,0 +1,35 @@
+LICENCIA DE USO RESTRINGIDO
+
+Copyright (c) 2025 Pueblo Montubio del Ecuador
+
+1. TITULARIDAD Y APLICACIÓN
+Este software, incluyendo su código fuente y cualquier documentación asociada (en adelante, "el Software"), es propiedad exclusiva de la Asociación Pueblo Montubio del Ecuador (en adelante, "la Asociación").
+
+2. USO AUTORIZADO
+El uso del Software está restringido únicamente a la Asociación y sus miembros autorizados. Cualquier otro uso, ya sea personal, comercial o institucional, está estrictamente prohibido sin el consentimiento previo y por escrito de la Asociación.
+
+3. PROHIBICIONES
+Sin la autorización expresa y por escrito de la Asociación, queda prohibido:
+
+Copiar, reproducir, distribuir o modificar el Software en cualquier forma.
+
+Vender, alquilar, sublicenciar o explotar comercialmente el Software.
+
+Usar el Software con fines fraudulentos, ilícitos o para suplantar a la Asociación.
+
+Divulgar, compartir o publicar el código fuente o cualquier parte del Software en cualquier medio o plataforma.
+
+4. RESPONSABILIDAD
+La Asociación no se hace responsable por el uso no autorizado del Software ni por cualquier daño, directo o indirecto, derivado de su uso indebido.
+
+5. PENALIZACIONES
+Cualquier infracción a los términos de esta licencia será considerada una violación de los derechos de propiedad intelectual y podrá dar lugar a acciones legales civiles y/o penales según la legislación aplicable.
+
+6. MODIFICACIONES Y TERMINACIÓN
+La Asociación se reserva el derecho de modificar los términos de esta licencia en cualquier momento. El incumplimiento de estos términos resultará en la revocación inmediata de cualquier permiso de uso concedido previamente.
+
+7. JURISDICCIÓN
+Esta licencia se rige por las leyes de Ecuador y cualquier disputa derivada de su interpretación o aplicación será resuelta en los tribunales competentes del país.
+
+Desarrollado por: Stalin García Ruano
+
