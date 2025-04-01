@@ -24,11 +24,11 @@ Puedes descargar la versión más reciente del instalador desde la sección de [
 
 | Login | Menú Principal |
 |-------|---------------|
-| ![Login](https://via.placeholder.com/400x250?text=Login) | ![Menú Principal](https://via.placeholder.com/400x250?text=Menu+Principal) |
+| ![Login](https://i.imgur.com/VgfZfAf.png) | ![Menú Principal](https://i.imgur.com/zoMfIZL.png) |
 
 | Registrar Socio | Registrar Dirigente |
 |----------------|------------------|
-| ![Registrar Socio](https://via.placeholder.com/400x250?text=Registrar+Socio) | ![Registrar Dirigente](https://via.placeholder.com/400x250?text=Registrar+Dirigente) |
+| ![Registrar Socio](https://i.imgur.com/xyKGujx.png) | ![Registrar Dirigente](https://i.imgur.com/s1E6ey6.png) |
 
 ---
 
